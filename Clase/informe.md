@@ -1,10 +1,10 @@
-# 📄 Informe Técnico del Taller
+#  Informe Técnico del Taller
 
-## 🔖 Nombre del Taller
+##  Nombre del Taller
 
 Taller 2 - Modelado de Arquitectura Empresarial para la Gestión de Información en la Clínica Salud Viva
 
-## 👥 Integrantes del equipo
+##  Integrantes del equipo
 
 * Daniel Santiago Ramírez Chinchilla (danielsramirez@unisabana.edu.co | Santii08)
 * Juan Pablo Aponte Veloza (juanapve@unisabana.edu.co)
